@@ -1,6 +1,6 @@
-streamlit==1.27.2
+flask
+SQLAlchemy
 pandas
 xgboost
-scikit-learn
 joblib
 python-dotenv
