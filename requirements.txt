@@ -1,6 +1,7 @@
 Flask
 Gunicorn
 Werkzeug==2.2.2
+flask_sqlalchemy
 SQLAlchemy
 pandas
 xgboost
