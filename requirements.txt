@@ -1,4 +1,5 @@
 Flask
+Gunicorn
 Werkzeug==2.2.2
 SQLAlchemy
 pandas
